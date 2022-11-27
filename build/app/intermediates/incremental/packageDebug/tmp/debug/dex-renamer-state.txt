@@ -1,0 +1,4 @@
+#Sun Nov 27 23:38:13 CAT 2022
+base.0=G\:\\Projects\\mobile\\Flutter-Covid-19-Tracker-App-Tutorials-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
